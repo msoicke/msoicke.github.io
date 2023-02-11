@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://msoicke.github.io/baidu_verify_codeva-ydbNy3ybGg.html</loc>
-    
-    <lastmod>2023-02-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://msoicke.github.io/msoc/%E6%B5%8B%E8%AF%95.html</loc>
     
     <lastmod>2023-02-11</lastmod>
@@ -4649,14 +4640,14 @@
   </url>
   
   <url>
-    <loc>https://msoicke.github.io/tags/www/</loc>
+    <loc>https://msoicke.github.io/tags/kali/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://msoicke.github.io/tags/%E4%BB%99%E8%B8%AA%E6%9E%97/</loc>
+    <loc>https://msoicke.github.io/tags/www/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4670,7 +4661,7 @@
   </url>
   
   <url>
-    <loc>https://msoicke.github.io/tags/kali/</loc>
+    <loc>https://msoicke.github.io/tags/%E4%BB%99%E8%B8%AA%E6%9E%97/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4763,7 +4754,7 @@
   </url>
   
   <url>
-    <loc>https://msoicke.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
+    <loc>https://msoicke.github.io/categories/%E7%88%B1%E6%83%85/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4777,7 +4768,7 @@
   </url>
   
   <url>
-    <loc>https://msoicke.github.io/categories/%E7%88%B1%E6%83%85/</loc>
+    <loc>https://msoicke.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
     <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
