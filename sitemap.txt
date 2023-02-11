@@ -1,0 +1,4 @@
+https://msoicke.github.io/msoc/hello-world.html
+https://msoicke.github.io/categories/index.html
+https://msoicke.github.io/tags/index.html
+https://msoicke.github.io/
